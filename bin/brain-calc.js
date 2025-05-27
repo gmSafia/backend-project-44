@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import calculator from '../src/game/calculator.js';
+import calculator from '../src/game/calculator.js'
 
-calculator();
+calculator()
